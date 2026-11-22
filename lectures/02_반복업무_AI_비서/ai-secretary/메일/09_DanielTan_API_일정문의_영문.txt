@@ -1,0 +1,15 @@
+보낸 사람: Daniel Tan <daniel.tan@fintrail.example>
+받는 사람: 박현진
+받은 시각: 2026-12-03 (목) 21:00
+제목: API integration timeline for Q1
+
+Hi Hyunjin,
+
+Hope you're doing well. Our team in Singapore is planning the Q1 roadmap,
+and we'd like to confirm when the expense approval API will be available for partners.
+
+Could you share a rough timeline and whether a sandbox will be provided?
+
+Best regards,
+Daniel Tan
+Partnerships, FinTrail
